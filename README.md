@@ -38,11 +38,7 @@ I enjoy solving real-world problems using data, building machine learning models
 - Advanced queries using JOINs, CTEs, subqueries, and window functions  
 - Real-world business problem solving
 
-🔹 **Exploratory Data Analysis**
-- Data cleaning, visualization, and insights using Python  
-- Worked on real datasets
-
-🔹 **Machine Learning Projects**
+🔹 Jet Plan Engine Predictive Maintain with Explainable AI (XAI)
 - End-to-end ML pipelines  
 - Model training, testing, and evaluation
 
