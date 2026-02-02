@@ -62,8 +62,8 @@ To secure an **internship or entry-level role** in:
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your LinkedIn link here)*
-- 📧 Email: *(add your email here)*
+- 💼 LinkedIn: https://linkedin.com/in/reem-butani
+- 📧 Email: reembutani23@gamil.com
 
 ---
 
