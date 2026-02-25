@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Reem Butani
 
-🎓 Bachelor of Engineering in Artificial Intelligence & Data Science 
+🎓 Bachelor of Engineering in Artificial Intelligence & Data Science
 📊 Aspiring Data Scientist | AI & ML Enthusiast  
 📍 India  
 
