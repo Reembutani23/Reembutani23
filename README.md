@@ -118,17 +118,6 @@ Meteor Madness – Galactic Problem Solver.
 - Oracle OCI AI Foundations Associate
 - Google Data Analytics Foundations
 
----
-
-# 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Reembutani23&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reembutani23&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
 
 ---
 
@@ -150,10 +139,19 @@ Meteor Madness – Galactic Problem Solver.
 
 # 🌐 Connect With Me
 
-- 🔗 LinkedIn: https://linkedin.com/in/reem-butani
-- 💻 GitHub: https://github.com/reembutani
-- 📧 Email: reembutani23@gmail.com
+<p align="center">
 
----
+<a href="https://github.com/Reembutani23" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href=":https://www.linkedin.com/in/reem-butani-547815398/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:reembutani23@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 > *"Turning data into intelligent decisions through AI and Machine Learning."*
