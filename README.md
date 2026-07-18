@@ -1,14 +1,18 @@
-# 👋 Hi, I'm Reem Butani
-
 <div align="center">
 
-### 🚀 AI & Data Science Student | Machine Learning Enthusiast | Python Developer
+# 👋 Hi, I'm Reem Butani
+
+### 🚀 AI & Data Science Engineer | Data Scientist | Machine Learning Enthusiast | Python Developer
+
+Aspiring **Data Scientist** and **Artificial Intelligence & Data Science** student passionate about building intelligent systems using **Machine Learning**, **Data Analytics**, and **Explainable AI**. Experienced in developing end-to-end ML solutions, predictive models, and interactive dashboards using Python, Scikit-learn, XGBoost, Streamlit, and SHAP. Currently expanding my expertise in **Deep Learning**, **SAP ERP**, and **Enterprise AI** while building real-world projects that solve practical business problems.
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Machine+Learning+Developer;Python+Developer;Data+Science+Enthusiast;SAP+ERP+Learner;Always+Learning+New+Technologies" />
 
 <img src="https://komarev.com/ghpvc/?username=reembutani&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
+
+---
 
 ---
 
