@@ -1,70 +1,123 @@
 # 👋 Hi, I'm Reem Butani
 
-🎓 Bachelor of Engineering in Artificial Intelligence & Data Science
-📊 Aspiring Data Scientist | AI & ML Enthusiast  
-📍 India  
+<div align="center">
+
+### 🚀 AI & Data Science Student | Machine Learning Enthusiast | Python Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Machine+Learning+Developer;Python+Developer;Data+Science+Enthusiast;SAP+ERP+Learner;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=reembutani&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
-I am a motivated AI and Data Science student with hands-on experience in Python, SQL, and data analysis.  
-I enjoy solving real-world problems using data, building machine learning models, and continuously improving my technical skills through projects and practice.
+# 💫 About Me
+
+🎓 B.Tech Student in Artificial Intelligence & Data Science
+
+💡 Passionate about Data Science, Machine Learning, AI and Enterprise Analytics.
+
+🌱 Currently Learning
+- Advanced Machine Learning
+- Deep Learning
+- Explainable AI (SHAP)
+- SAP ERP Fundamentals
+- Streamlit & Data Visualization
+
+🎯 Career Goal
+Become a Data Scientist building impactful AI solutions.
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠 Tech Stack
 
-**Programming & Databases**
-- Python (NumPy, Pandas, Matplotlib, Seaborn)
-- SQL (MySQL, PostgreSQL)
-- Git & GitHub
+## Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,javascript" />
+</p>
 
-**Data Science & ML**
-- Data Cleaning & Exploratory Data Analysis (EDA)
-- Machine Learning (Regression, Classification)
-- Feature Engineering
-- Model Evaluation
+## Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+</p>
 
-**Tools**
-- Jupyter Notebook
-- VS Code
-- Excel (Basic analytics)
+## Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Matplotlib
+- Seaborn
+- Plotly
+- SHAP
+- Streamlit
 
----
-
-## 📂 Featured Projects
-
-🔹 **SQL Case Studies**
-- Advanced queries using JOINs, CTEs, subqueries, and window functions  
-- Real-world business problem solving
-
-🔹 Jet Plan Engine Predictive Maintain with Explainable AI (XAI)
-- End-to-end ML pipelines  
-- Model training, testing, and evaluation
-
-📌 *More projects available in my repositories below.*
+## Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📈 What I’m Currently Doing
-- Strengthening SQL and Python for data analytics  
-- Building ML projects for internship readiness  
-- Practicing clean code and proper documentation
+# 🚀 Featured Projects
+
+### 🌾 AgriPulse AI
+AI-powered climate impact & crop yield prediction platform using Python, Scikit-learn, Streamlit, Plotly and SHAP.
+
+### ✈️ Predictive Maintenance for Jet Engines
+Machine learning pipeline using Random Forest, XGBoost and Explainable AI to predict engine failures.
+
+### 🚀 NASA Space Apps Challenge
+Meteor Madness – Galactic Problem Solver.
 
 ---
 
-## 🎯 Career Goal
-To secure an **internship or entry-level role** in:
-- Data Science
-- Data Analytics
-- Machine Learning
+# 📜 Certifications
+
+- SAP Professional Fundamentals
+- Understanding Enterprise Systems
+- IBM Exploratory Data Analysis for ML
+- Microsoft Generative AI for Data Scientists
+- Oracle OCI AI Foundations Associate
+- Google Data Analytics Foundations
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/reem-butani
-- 📧 Email: reembutani23@gamil.com
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=reembutani&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reembutani&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-⭐ If you find my work useful, feel free to explore my repositories!
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=reembutani&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reembutani&theme=tokyo-night"/>
+
+---
+
+# 🌐 Connect With Me
+
+- 🔗 LinkedIn: https://linkedin.com/in/reem-butani
+- 💻 GitHub: https://github.com/reembutani
+- 📧 Email: reembutani23@gmail.com
+
+---
+
+> *"Turning data into intelligent decisions through AI and Machine Learning."*
