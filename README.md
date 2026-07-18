@@ -90,7 +90,7 @@ Become a Data Scientist building impactful AI solutions.
 ## 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
 </p>
 
 
