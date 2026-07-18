@@ -144,7 +144,7 @@ Meteor Madness – Galactic Problem Solver.
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reembutani23&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reembutani23&theme=tokyo-night&hide_border=true"/>
 
 ---
 
