@@ -14,7 +14,6 @@ Aspiring **Data Scientist** and **Artificial Intelligence & Data Science** stude
 
 ---
 
----
 
 # 💫 About Me
 
@@ -36,31 +35,64 @@ Become a Data Scientist building impactful AI solutions.
 
 # 🛠 Tech Stack
 
-## Languages
+## 💻 Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript" />
 </p>
 
-## Databases
+---
+
+## 🎨 Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
 </p>
 
-## Data Science
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+---
+
+## 📊 Data Science & AI
+
+- Python
 - Pandas
 - NumPy
 - Scikit-learn
 - XGBoost
+- SHAP (Explainable AI)
+- Streamlit
 - Matplotlib
 - Seaborn
 - Plotly
-- SHAP
-- Streamlit
+- Machine Learning
+- Deep Learning
+- Feature Engineering
+- Data Visualization
+- Data Cleaning
 
-## Tools
+---
+
+## 🛠️ Tools & Platforms
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,linux" />
 </p>
+
 
 ---
 
